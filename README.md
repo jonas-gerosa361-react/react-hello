@@ -1,5 +1,9 @@
 ## Project Overview
-put the images here
+Homepage
+https://github.com/jonas-gerosa361/react-hello/blob/main/images/home.png?raw=true
+
+Stopwatch Running
+https://github.com/jonas-gerosa361/react-hello/blob/main/images/stopwatcher-on.png?raw=true
 
 ## Quickstart
 1. git clone https://github.com/jonas-gerosa361/react-hello.git react-hello
@@ -14,6 +18,6 @@ put the images here
 
 ## Fundations used
 * Functions Components
-* Usestate
+* UseState
 * UseEffect
 * Services

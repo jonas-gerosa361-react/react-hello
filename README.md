@@ -1,9 +1,10 @@
-## Project Overview
-Homepage
-https://github.com/jonas-gerosa361/react-hello/blob/main/images/home.png?raw=true
+# Project Overview
 
-Stopwatch Running
-https://github.com/jonas-gerosa361/react-hello/blob/main/images/stopwatcher-on.png?raw=true
+**Homepage**
+![homepage](https://raw.githubusercontent.com/jonas-gerosa361/react-hello/main/images/home.png)
+
+**Stopwatch Running**
+![](https://github.com/jonas-gerosa361/react-hello/blob/main/images/stopwatcher-on.png?raw=true)
 
 ## Quickstart
 1. git clone https://github.com/jonas-gerosa361/react-hello.git react-hello
@@ -16,8 +17,8 @@ https://github.com/jonas-gerosa361/react-hello/blob/main/images/stopwatcher-on.p
 * Javascript
 * React
 
-## Fundations used
+## Fundamentals Learned
 * Functions Components
 * UseState
 * UseEffect
-* Services
+* JSX
